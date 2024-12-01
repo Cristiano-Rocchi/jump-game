@@ -195,7 +195,7 @@ tile_map_data = PackedByteArray("AAAOAAsAAAAFAAEAAAAPAAsAAAAFAAEAAAAQAAsAAAAFAAE
 tile_set = SubResource("TileSet_4428m")
 
 [node name="Enemies" parent="." instance=ExtResource("5_xf04i")]
-position = Vector2(115, 116)
+position = Vector2(112, 117)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Enemies"]
 position = Vector2(36, 48)
